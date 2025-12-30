@@ -7,7 +7,10 @@ public class squareTest {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		fail("Not Yet Implemented...");
 	}
 
 }
+
+
+
